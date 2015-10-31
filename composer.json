@@ -1,0 +1,11 @@
+{
+    "name": "nubisonline/cors",
+    "description": "Cors middleware Laravel",
+    "authors": [
+        {
+            "name": "George Pittas",
+            "email": "sattip@hotmail.com"
+        }
+    ],
+    "require": {}
+}
