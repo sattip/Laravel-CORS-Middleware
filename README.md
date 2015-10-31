@@ -19,3 +19,4 @@ header('Access-Control-Allow-Origin' , '*')
 ```
 
 > It works with JWT middleware with Authorization header
+http://www.codeanchor.net/blog/creating-custom-laravel-5-packages/
